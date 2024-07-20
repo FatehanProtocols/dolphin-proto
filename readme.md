@@ -2,7 +2,7 @@
 
 ### Installation
 ```
-go get github.com/FatehanProtocols/dolphin-proto
+go get github.com/FatehanProtocols/dolphindevice
 ```
 
 ### export go out
