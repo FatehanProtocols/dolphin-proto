@@ -1,6 +1,9 @@
 
 
 ### Installation
+```
+go get github.com/FatehanProtocols/dolphin-proto
+```
 
 ### export go out
 ```cmd
