@@ -1,4 +1,4 @@
-module github.com/FatehanProtocols/dolphin-proto
+module github.com/FatehanProtocols/dolphindevice
 
 go 1.22.5
 
